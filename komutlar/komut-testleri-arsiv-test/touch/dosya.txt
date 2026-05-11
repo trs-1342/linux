@@ -1,7 +1,0 @@
-bu dosya komutlar-2 touch komutu icin ornek olarak olusturuldu ve duzenlendi.
-
-istanbul
-ankara
-hatay
-izmir
-canakkale

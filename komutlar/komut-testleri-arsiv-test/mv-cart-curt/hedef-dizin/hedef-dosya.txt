@@ -1,2 +1,0 @@
-bu dosya hedef-dizin'in bir ustundeydi, mv ile tasindi
-daha sonra mv ile .txt dosyasina cevrildi

@@ -1,0 +1,3 @@
+find ama daha basit ve sistemin icinde indexlenmis verilere gore degeri arar.
+
+sistemim locate bulamadigi icin sonra buraya tekrar bakacagim.

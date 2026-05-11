@@ -1,0 +1,25 @@
+find:
+bul demek
+
+istenilen anahtar kelimeyi bulmamiza yarar.
+
+find YOL PARAMETRELER ILGILI-DOSYA-ADI
+
+sadece dosya adi arar, icerigi degil.
+
+en temel komutlar:
+
+dosya adina gore arama:
+find / -name dosya <-- / kok dizini altinda adi "dosya" olan tum yerlere bakar
+
+tipine gore arama:
+find / -type d <-- d dosyanin bas harfi, turu dosya olanlarin hepsini listeler
+
+boyuta gore arama:
+find / -size 500 dosya <-- kb olarak arama yapar
+
+
+ek olarak:
+find komutu tam istedigim gibi calistiramadim, buna ayriyetten bakacagim.
+
+- [ ] burayi bitirmis ol
