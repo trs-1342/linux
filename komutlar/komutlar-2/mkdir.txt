@@ -1,0 +1,4 @@
+mkdir:
+
+mkdir KLASOR:
+bu komut ile istediginiz klasoru olusturabilirsiniz.

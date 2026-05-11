@@ -1,0 +1,5 @@
+cat:
+cat dosya: bu cat ile verilen dosyayi icini acar ve ekrana gosterir.
+bir dosyanin icerigi oldugu gibi gosterir
+cat -n:
+satir numaralariyla gosterir.

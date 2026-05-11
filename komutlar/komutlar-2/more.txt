@@ -1,0 +1,5 @@
+more:
+more dosya: cat ile ayni gorevi yapar ama icerigi gosterilen dosyayi sayfa sayfa, parca parca boler
+klavye ile asagiya yukariya gidersiniz
+bir dosyanin icerigi cat gibi oldugu gibi gostermez, size gezinme olanagi tanir. cok uzun dosyalar icindir.
+cikmak icin 'q' tusuna basiniz.

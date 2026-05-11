@@ -1,0 +1,7 @@
+touch:
+touch dosya-adi: bu komut ile istediginiz dosyayi olusturmanizi saglar.
+
+ornek:
+touch index.html
+touch main.c
+touch gunlugum.txt

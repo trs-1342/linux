@@ -1,0 +1,34 @@
+rm:
+"remove" demek, silme islemi yapar:
+
+
+dosya silmek icin:
+rm dosya
+
+
+klasor silmek icin:
+rm -r klasor
+
+
+dikkat:
+klasor ve dosya ayni sekilde silinemez.
+
+
+rm -r:
+klasoru siler
+
+
+rm -f:
+kaba kuvvetle siler, zorla silme islemi yapar.
+
+rm -v:
+islem sonucunda bilgi verir, ne yaptigiyla ilgili cikti verir
+
+rm -i:
+silme islemi sirasinda size "emin misiniz?" seklinde sorar
+
+
+...
+
+
+bir cok komut var, "man rm" ile goz atabilirsiniz.
