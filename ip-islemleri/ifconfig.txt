@@ -1,0 +1,4 @@
+ifconfig:
+linux ag ayarlarini ve degerlerini gosteren komuttur.
+
+ip adresi, mac vb. ag ile ilgili gerekli bilgileri buradan saglayabilirsiniz.

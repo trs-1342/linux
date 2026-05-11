@@ -1,0 +1,3 @@
+bu klasorde ip ve ayarlamalari ile ilgili oldugu klasordur.
+
+ogrendigim kaynakta dosya ile statik ip degisikligi yapiyor ama ben sanal makinadan degil gercek makinada gormedigim icin pass gectim.

@@ -1,0 +1,4 @@
+ip addr komutu ifconfig ile neredeyse aynidir
+
+sadece modern linux sistemlerinde ag yapılandırması icin kullanılan daha guclu ve 
+guncel ag paketine aittir
