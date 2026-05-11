@@ -1,0 +1,26 @@
+cp:
+"copy" yani "kopyala"
+
+dosyalari/klasorleri belirlenen hedefe dogru kopyalamasini saglar.
+
+kullanimi:
+cp DOSYA/KLASOR HEDEF-DIZIN
+
+
+ornek:
+[~]$ cp dosya1 dosyalar/
+
+dosya1 adinda bir dosyayi dosyalar/ adinda bir klasorun icine kopyaladim
+once kopyalanacak sonra kopyalanma adresi yazilir
+
+klasor kopyalama icin parametre gerekiyor:
+
+cp -r klasor1/ klasor0/
+
+
+cp -f: kaba kuvvet, zorla
+
+
+ek not:
+illa kopyalamak icin o dizinde olmaniza gerek yok.
+eger sistemin veya istediginiz seyin tam yolunu verebiliyorsaniz hukmedersiniz zaten.

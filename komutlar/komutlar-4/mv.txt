@@ -1,0 +1,14 @@
+mv:
+"move" yani "tasi" anlamina gelir
+
+2 kullanimi var:
+
+1. ad degistirme:
+
+mv eski-dosya-adi yeni-dosya-adi:
+
+eski bir dosyayi yeniden adlandirmak icin once eski ad sonra istediginiz yeni ad girilir
+
+2. tasima islemi:
+
+mv tasinacak-olan-sey gidecegi-konum

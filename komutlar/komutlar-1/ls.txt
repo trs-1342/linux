@@ -33,3 +33,20 @@ dosya/: / isareti klasor demek
 lib64@: @ isareti link demek
 dosya*: * isareti o dosyanin calistirilabilir demek
 eger isaret yoksa dosyadir
+
+
+dikkat:
+
+oldugunuz dizinde baglantiniz yoksa (bir ust veya bir alt) veya tam konum girmezseniz istediginiz seyi listeleyemezsiniz.
+
+
+ana konu uzerinden deneyim:
+[~]$ ls etc <-- burada hata verir cunku etc klasoru ana dizinde yok (varsayilan olarak gelmez siz olusturmadiysaniz.) bu yuzden hata verir.
+
+dogrusu:
+[~]$ ls /etc
+
+ek kullanimlarda var:
+
+[~]$ ls Desktop
+[~]$ ls .. <-- bulungunuz klasorun bir ustunu listeler
