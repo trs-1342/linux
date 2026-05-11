@@ -1,0 +1,1 @@
+/dev disklerin oldugu klasordur.

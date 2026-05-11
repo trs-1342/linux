@@ -1,0 +1,4 @@
+/root klasorunu en yuksek yetkilerin oldugu dizindir.
+
+oturumu acik olan kullanici yetkisi yoksa giremez.
+burada degisiklikler cok onemlidir.

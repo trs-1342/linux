@@ -1,0 +1,3 @@
+/media
+
+usb bellekleri mount edildigi yer

@@ -1,0 +1,24 @@
+dosya-yapisi/ klasoru '/' linux dizisine karsilik geliyor.
+sistemin kok ana yolu:
+/
+
+icinde her sey var.
+simdilik kaba taslak olarak sistemi yazdim.
+
+kok isareti: /
+her sey / ve altindaki ile ilgilidir.
+
+
+linux katmanlardan olusur:
+
+KERNEL:
+cekirdek, en alttaki katmandir. sistemin kalbidir.
+
+
+SHELL:
+kernel sisteminin bir ust katmani, bu egitimde uygulamalarin hepsi shell katmaninda olacak.
+
+USER INTERVIEWS:
+shell katmanin bir ust katmanidir.
+kullanici arayuzu demek. gelistirici ve adminler bu kullanici arayuzunu cok kullanmazlar, sart degildir.
+shell katmani ile hallederler.

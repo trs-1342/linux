@@ -1,0 +1,6 @@
+bu dizinde kullanicinin/kullanicilarin klasorleri ve dosyalari bulundur.
+
+ornek:
+
+'halil' adinda bir kullanici hesabiniz varsa linux sisteminde, '/home/halil' dizini/yolu olusur.
+birden cok kullanici varsa bu klasor altinda barindirilir.

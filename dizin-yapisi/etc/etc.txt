@@ -1,0 +1,8 @@
+/etc en onemli olan etc
+
+konfigrasyonlarin oldugu dizindir.
+
+surekli icine girip ayarlamalari, admin ayarlarini degistirebildigimiz dizindir.
+admin diyince akla etc gelsin.
+
+/etc bizim her seyimiz adminle ilgili. ip, dns, security vb. ile ilgili bir sey yapmak istiyorsak buradan yapabiliriz.

@@ -1,0 +1,1 @@
+/tmp gecici dosyalarin tutuldugu klasordur, sistem yeniden baslatildiginda icerisi silinir.

@@ -1,0 +1,1 @@
+linux sistemi tamamen dosya bazli, txt uzerine kurulu ve hata olmasi durumunda geri alinabilmesini kolaylik saglar.

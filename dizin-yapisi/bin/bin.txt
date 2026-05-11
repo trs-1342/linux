@@ -1,0 +1,3 @@
+/bin sistem ile ilgili bir cok dosyanin bulundugu dizindir
+
+ls, rm, cp vb. temel komutlarda dahil burada olur

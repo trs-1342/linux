@@ -1,0 +1,4 @@
+/mnt mount anlamina geliyor
+
+cdrom veya diskleri buraya mount edilir.
+sistem cdromlari veya diskleri otomatik gormez, bir kapi gorevi yapar, baglandiktan sonra sistem algilayabilir.
