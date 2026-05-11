@@ -1,0 +1,25 @@
+cd:
+"change directory" yani "dizini degistir" demek.
+
+cd ile oldugunuz konumu istediginiz konuma gitmek icin kullanabilirsiniz.
+
+bir dizin/klasore girmek icin:
+cd KLASOR
+
+bulundugunuz dizinden bir uste gitmek icin:
+cd ..
+'..' (iki nokta) ile bir arkaya git demek.
+
+birden fazla ust konuma gidebilirsiniz, istediginiz kadar:
+cd ../../../
+cd ../../
+cd ../../../../ gibi gibi ...
+
+'/' yani kok dizine ne kadar yakinsaniz o kadar geridesiniz/ustesiniz demek.
+
+istediginiz tam bir konum varsa onuda yazabilirsiniz, mesela:
+
+cd /etc/ <-- / altindaki etc klasorunun icine girer.
+
+
+eger sadece 'cd' veya 'cd ~' yazarsaniz ana klasore yani ~ klasorune gidersiniz. (/home/kullanici_adiniz/)

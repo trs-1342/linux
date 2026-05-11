@@ -1,0 +1,10 @@
+man:
+"manuel" veya "kilavuz" anlamina gelir.
+
+kullanimi:
+man [KOMUT]
+
+bu man komutu ile bir saga yazdiniz o komut ile ilgili detayli bir sayfa acar.
+
+ek bilgi:
+o sayfadan cikmak icin 'q' tusuna basiniz.

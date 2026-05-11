@@ -16,7 +16,7 @@ cekirdek, en alttaki katmandir. sistemin kalbidir.
 
 
 SHELL:
-kernel sisteminin bir ust katmani, bu egitimde uygulamalarin hepsi shell katmaninda olacak.
+kernel sisteminin bir ust katmani, bu egitimde uygulamalarin hepsi shell katmaninda olacak. bu katman o kadar guclu ki kullanici arayuzu katmanina ihtiyac duyulmuyor.
 
 USER INTERVIEWS:
 shell katmanin bir ust katmanidir.

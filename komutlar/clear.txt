@@ -1,0 +1,2 @@
+clear:
+"temizle" demek, ekrandaki o ciktilari temizlemenizi sifirlamanizi saglar.

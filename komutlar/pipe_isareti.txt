@@ -1,0 +1,16 @@
+| isareti:
+pipe yani boru isareti edemek
+
+bu isaret ile bir cok komutu birlestirebilirsiniz.
+soldan saga giderek calisir
+soldan saga ciktilari/verileri tasima islemi yapar
+
+
+ls | grep ANAHTAR_KELIME:
+ls sonucunu | isareti ile soldan saga grep'e verir
+grep ise gelen veriyi aranan anahtar kelime ile esleseni secer ayiklar ve kirmizi/vurgulu renkte gosterir.
+
+
+NOT:
+izledigim kaynak, duzgun calistiramadi. 'cd DIZIN | ls' komutu calistiramadi, & isareti ile karistirdi simdilik bu bilgileri silmeyecegim kalsin.
+ileride git push ile duzenlendir.

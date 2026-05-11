@@ -1,0 +1,34 @@
+bu dosya, /komutlar klasoru icin bir kac on bilgi icerdigi dosyadir.
+
+terminal komut satirinda standart olarak bunlar yazilir:
+[KULLANICI@LINUX-DISTROSU ~]$
+
+[]:
+once kullanici adi (username), sonra '@' kullanilan linux/distro
+
+sonra dizin: ~
+
+~: kullanici anadizininde demek oluyor.
+
+ornek olarak:
+"[trs@archlinux ~]$":
+trs kullanicisi arch linux kullaniyor ve /home/trs dizininde.
+
+@ isaretinin anlami:
+
+arch linux'taki trs kullanici anlamina geliyor.
+
+hattab1342@gmail.com:
+gmail'deki hattab1342 email adresi gibi.
+
+
+$ isareti, normal kullanici yetki seviyesinde demektir.
+
+
+tum bunlari kullanilan terminal'e gore config dosyasindan degistirilebilir.
+
+yazdiniz komutun otomatik tamamlanmasi icin TAB tusuna basabilirsiniz, her sistemde olmayabilir, bazen o yazilan komut yoksa ve tab'a basarsaniz bir sey degismez.
+
+sistem, buyuk kucuk hafrlere duyarlidir:
+
+Dosya ve dosya ikisi farkli seylerdir.

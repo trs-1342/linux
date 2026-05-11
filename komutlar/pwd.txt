@@ -1,0 +1,9 @@
+PWD:
+"print work directory" demek.
+o an calistiginiz yerdeki konumu gosterir.
+
+ornek:
+
+[trs@archlinux ~]$ pwd
+/home/trs  <-- nerede oldugumuzu gosteriyor
+[trs@archlinux ~]$ 

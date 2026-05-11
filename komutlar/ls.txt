@@ -1,0 +1,35 @@
+ls:
+"list" demek
+bulundugunuz konumdaki iceriklerini listeler.
+
+cikan sonuca gore:
+mavi renkliler: klasor
+beyaz renkliler: dosya
+(genellikle boyledir, her linux'ta ayni olmayabilir.)
+
+
+turevler/parametreler:
+
+parametreler birlestirilebilir, ornek:
+ls -laF
+ls -hal
+ls -al
+ls -la
+...
+
+ls -l:
+detayli gosterir: yetkiler, kimden, hangi gruptan, zamani ve o icerigi gosterir.
+
+ls -F:
+her listelenen bir elemana hangi turden (dizin, dosya, linx, calistirilabilir dosya vs.) oldugunu belirten formatla listeler.
+
+ls -a:
+all demek, gizli dosyalarida dahil listeler.
+gizli dosya/klasor adinda . ile baslar ornek:
+.gizli_dosya
+.gizli_klasor/
+
+dosya/: / isareti klasor demek
+lib64@: @ isareti link demek
+dosya*: * isareti o dosyanin calistirilabilir demek
+eger isaret yoksa dosyadir
