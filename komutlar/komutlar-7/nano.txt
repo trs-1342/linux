@@ -1,0 +1,28 @@
+shell katmaninda duzenleme yapabilecegimiz en temel 2 program vardir:
+
+1 vim
+2 nano
+
+suanda nano'yu ele aliyorum, daha basit ve anlasilir bir kullanimi ve yapisi var
+
+dosya acmak icin: nano dosya-adi
+dosya yoksa olusturur: nano dosya-adi
+
+
+^ olarak altta yer alan her bir kisa tus, control+* demektir
+mesela ^X --> control+X demek, buda cikis anlamina geliyor
+
+dosya kaydedilmemisse ve cikis yapmaya calisirsaniz, size dosyanin kaydedilip kaydedilmeyecegini sorar
+yes/no veya iptal yaparsiniz
+
+yes, kaydet
+no, kaydetme demek
+iptal ise ctrl+X islemini iptal et
+
+ctrl+S save degisiklikleri kaydeder
+
+
+nano -m dosya --> imlec modunu acar, imlec ile davranabilirsiniz
+nano -v dosya --> sadece okuma modunu acar duzenleme yapamazsiniz
+
+man nano ile detayli bakabilirsiniz.

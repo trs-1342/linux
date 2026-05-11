@@ -1,0 +1,32 @@
+vim editoru:
+linux bu editor ile yazilmis, sistem veya kernel seviyesinde bir hata olmasi durumunda nano calismayabilir ama vim calisacak
+
+kullanimi:
+vim dosya-adi veya direk vim yazabilirsiniz
+
+varsa, onu acar
+yoksa onu olusturur
+
+2 modu var:
+i veya ESC+O tusu --> insert modu: duzenlemeler yapabildiginiz moddur
+esc --> bulundugunuz moddan cikabilirsiniz ve menu moduna gecebilirsiniz
+
+gercekten cok detayli ve zor, ileride eklemeler yapacagim.
+
+kaydetmek icin:
+esc (yani menu moduna geciniz)
+: yaziniz
+sonra bu degerleri kullanabilirsiniz:
+
+w --> write, yani yaz
+q --> quit, yani cikis yap demek
+! --> zorla islem yapmak demek
+saveas dosya-adi --> belirtilen dosya adi ile kaydeder
+
+menu modunde gezinmek icin:
+k -> yukari
+j -> asagi
+h -> sol
+l -> sag
+
+tarafina gecer
