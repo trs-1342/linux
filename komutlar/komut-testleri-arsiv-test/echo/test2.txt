@@ -1,0 +1,2 @@
+havali bir soz yazdigimi dusun*
+bu satir echo deger* >> test2.txt ile yazildi.

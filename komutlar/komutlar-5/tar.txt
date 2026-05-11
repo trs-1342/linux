@@ -1,0 +1,39 @@
+tar:
+"tape archive" yani "kaset arsivi" demek
+
+klasorleri arsivlemenizi ve arsivli klasorleri acmanizi saglar.
+
+kullanimi:
+
+tar PARAMETRELER ARSIV-DOSYA-ADI ARSIVLENECEK-DOSYA(LAR)/ARSIVLENECEK-KLASOR(LER)
+
+
+en genel kullanim:
+
+arsiv olusturma:
+
+tar -cvf dosya.tar dosya/klasor
+
+-c: create olustur demek
+-v: arsivlenen dosyayi goster demek
+-f: file turu arsiv yap demek
+
+
+---
+
+arsivden cikartmak icin:
+
+tar -xvf dosya.tar [burayi bos birakirsaniz oldugunuz dizine cikarir, istediginiz dizine aktarmak icin bir oncesinde -C parametresi eklemeniz gerekiyor]*
+
+-x: arcivi ac demek
+
+---
+
+acmadan listelemek icin:
+
+tar -tvf dosya.txt
+
+-t: icerigi listele demek
+
+not:
+lutfen kullanimini `man tar` ile bakiniz.
