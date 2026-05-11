@@ -1,0 +1,44 @@
+echo: yanki demek, yazdirmak istediginiz degerleri ekrana yazdirir.
+
+ornek kullanim:
+echo "CUMLE"
+echo CUMLE
+echo "KELIME"
+echo KELIME
+
+
+islem yaptirmak icin:
+
+echo KELIME/CUMLE/DEGER > DOSYA:
+echo'ya verilen degeri > isareti ile alir ve belirtilen dosyaya yazdirir, yoksa olusturur ve yazdirir.
+
+echo KELIME/CUMLE/DEGER >> DOSYA:
+echo'ya verilen degeri >> isareti ile alir ve belirtilen dosyaya yazdirir, yoksa olusturur ve yazdirir.
+
+
+> ve >> aralarindaki fark:
+
+>: icindeki icerigi siler ve verileni yazar.
+
+>>: verilen icerigi belirtilen dosyaya en alt satira ekler.
+
+
+degerleri veya degiskenleri yazdirmak icin:
+
+$ ile degiskenleri cagrir calistirirsiniz.
+
+"echo $HOME": ekrana varsayilan home degiskeninin icindeki degeri yazdirir.
+degisken kavrami burada da var, sabit degiskenler buyuk harflerle yazilir.
+
+kullanicidan bir degisken olusturup yazdirabilirsiniz:
+
+x=13
+echo $x
+13
+
+
+bazi shell ortamlari, x=13 gibi atama yapmanizi izin vermez, fish gibi. bunun yerine set x 13 seklinde verebilirsiniz.
+
+DEGISKEN=DEGER
+veya
+set DEGISKEN DEGER
